@@ -1,0 +1,117 @@
+body 
+{
+	font-family: 				Times, serif;
+	color: 						#333;
+}
+
+header
+{
+	font-family: 				Verdana, sans-serif;
+	font-size: 					8pt;
+	position: 					relative;
+	height: 					75px;
+	margin: 					0px 15px;
+}
+
+.navbar
+{
+	padding: 					10px;
+	color:						#369;
+}
+
+a 
+{
+	text-decoration: 			none;
+}
+
+#signin
+{
+	color: 						#3CF;
+}
+
+section
+{
+	margin: 					0 10%;
+	text-align: 				center;
+}
+
+.left
+{
+	float: 						left;
+	margin: 					30px;
+}
+
+.right
+{
+	float: 						right;
+	margin: 					30px;
+}
+
+h1
+{
+	font-size: 					55px;
+	font-weight: 				300;
+	margin: 					10px;
+	font-family: 				"CrimsonSemibold", "Times New Roman", Georgia, serif
+}
+
+h5
+{
+	font-size: 					20px;
+	font-weight: 				lighter;
+	font-family: 				"CrimsonSemibold", "Times New Roman", Georgia, serif
+}
+
+.divider
+{
+	color:						#CCC;
+	font-size: 					30px;
+	margin: 					50px;
+}
+
+.products
+{
+	width:						900px;
+	height: 					300px;
+}
+
+.box
+{
+	border: 					1px solid #9CF;
+	height:						300px;
+	width:						200px;
+background: 					-webkit-gradient(linear, left top, left bottom, from(#FFF), to(#DDF));
+	margin:						0 30px 0 0;
+	padding: 					0 15px;
+	font-family: 				'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	border-radius: 				5px;
+	display: 					inline-block;
+}
+
+img
+{
+	padding-top: 				20px;
+}
+
+.name
+{
+	color: 						#069;
+	text-decoration: 			underline;
+	font:						20px, Arial, sans-serif;
+	padding: 					0;
+}
+
+sup
+{
+	font-size: 					8px;
+	text-decoration: 			none;
+	color: 						#069;
+}
+
+.purpose
+{
+	color:						#C00;
+	padding: 					0;
+	margin: 					0;
+	font-weight: 				bold;
+}
